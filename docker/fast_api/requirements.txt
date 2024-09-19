@@ -1,0 +1,11 @@
+mlflow==2.3.0
+fastapi>=0.68.0,<0.69.0
+uvicorn>=0.15.0,<0.16.0
+scikit-learn==1.2.2
+numpy==1.24.3
+pandas==1.5.3
+scipy==1.11.4
+psutil==5.9.5
+typing_extensions==4.11.0
+boto3==1.26.121
+mysql-connector-python==8.4.0
